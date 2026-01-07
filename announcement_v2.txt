@@ -1,0 +1,31 @@
+{
+  "id": 9,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [
+    "zh_CN"
+  ],
+  "title": [
+    {
+      "lang": "en",
+      "text": "About MobileGlues"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "关于 Terracotta | 陶瓦联机"
+    }
+  ],
+  "date": "2025.12.04",
+  "content": [
+    {
+      "lang": "en",
+      "text": "The renderer MobileGlues has been released. FCL is compatible with this renderer in version 1.2.0.5. Please install this plugin after updating. \nDownload address: https://github.com/MobileGL-Dev/MobileGlues-release/releases"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "FCL 启动器自 1.2.7.1 版本开始已内置联机功能，该功能基于第三方软件 Terracotta（陶瓦联机），目前可以和 HMCL、PCL CE、FCL 互联，未来 ZL2 也会接入，支持离线账户联机。详细用法见启动器内置教程。请大家多多测试反馈。"
+    }
+  ]
+}

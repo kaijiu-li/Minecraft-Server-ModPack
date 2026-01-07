@@ -1,0 +1,20 @@
+[
+  {
+    "type": "release",
+    "versionCode": 1277,
+    "versionName": "1.2.7.7",
+    "date": "2026.01.03",
+    "description": [
+      {
+        "lang": "en",
+        "text": "(Translated from Chinese by AI)\n1. Fixed the issue where launching the 2013 April Fools' 2.0 version incorrectly flagged \"holy\" as incompatible with that game version.  \n2. Added download support for the April Fools' 2.0 version.  \n3. Added download access for unlisted Minecraft versions.  \n4. Modified some metadata download links.  \n5. Added exclusive icons for April Fools' versions."
+      },
+      {
+        "lang": "zh_CN",
+        "text": "（若启动器内下载缓慢请使用网盘下载,64位的请下载arm64，不知道该下哪个的请下载all）\n1.修复启动13年愚人节2.0版本时认为holy不适于与该游戏版本的问题\n2.添加愚人节2.0版本下载\n3.添加未列出的Minecraft版本下载途径\n4.修改部分元数据下载链接\n5.为愚人节版本添加专属图标"
+      }
+    ],
+    "netdiskUrl": "https://url33.ctfile.com/d/48120333-156821919-0090a9?p=1212",
+    "url": "https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.2.7.7/FCL-release-1.2.7.7-all.apk"
+  }
+]
