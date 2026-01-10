@@ -1,31 +1,31 @@
 {
-  "id": 9,
-  "significant": true,
-  "outdated": false,
-  "minVersion": -1,
-  "maxVersion": -1,
-  "specificLang": [
-    "zh_CN"
-  ],
-  "title": [
-    {
-      "lang": "en",
-      "text": "About MobileGlues"
-    },
-    {
-      "lang": "zh_CN",
-      "text": "关于 Terracotta | 陶瓦联机"
-    }
-  ],
-  "date": "2025.12.04",
-  "content": [
-    {
-      "lang": "en",
-      "text": "The renderer MobileGlues has been released. FCL is compatible with this renderer in version 1.2.0.5. Please install this plugin after updating. \nDownload address: https://github.com/MobileGL-Dev/MobileGlues-release/releases"
-    },
-    {
-      "lang": "zh_CN",
-      "text": "FCL 启动器自 1.2.7.1 版本开始已内置联机功能，该功能基于第三方软件 Terracotta（陶瓦联机），目前可以和 HMCL、PCL CE、FCL 互联，未来 ZL2 也会接入，支持离线账户联机。详细用法见启动器内置教程。请大家多多测试反馈。"
-    }
-  ]
+"id": 9,
+"significant": true,
+"outdated": false,
+"minVersion": -1,
+"maxVersion": -1,
+"specificLang": [
+"zh_CN"
+],
+"title": [
+{
+"lang": "en",
+"text": "Panyu Jiu Server Rules"
+},
+{
+"lang": "zh_CN",
+"text": "潘屿玖Server 服务器规则"
+}
+],
+"date": "2025.12.04",
+"content": [
+{
+"lang": "en",
+"text": "⚠️This server has [Minecraft Unified Pass] official authentication. You need to register an account and use the corresponding login method to enter the server (otherwise, username verification will fail).\nMINECRAFT UNIFIED PASS Login & Registration\nhttps://login.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f/loginreg\n\nThis server is a 1.20.1 modded survival server, featuring mods such as Touhou Little Maid, Farmer's Delight series, Ars Nouveau, Refined Storage, Twilight Forest, etc. To ensure the gaming experience for all Pioneers, the following exclusive rules are established. Violations will be punished based on severity with warnings, bans, data clearance, etc.\n\nI. Basic Code of Conduct\n1. Strictly prohibit the use of cheat clients, hacks, or mods, including but not limited to flying, X-ray, item duplication, instant-kill, and other cheating behaviors; exploiting mod bugs (e.g., duplicating items via maid tasks, duplicating resources using storage mods) for unfair gain is forbidden. Discovered bugs must be reported to admins promptly.\n2. Prohibit posting advertisements, politically sensitive, pornographic, violent, or other inappropriate content; personal attacks, insults, and spreading rumors are not allowed; spamming and maliciously @mentioning all players in the server chat are prohibited. Keep the chat channels clean.\n3. Respect the work of other Pioneers. Malicious destruction of others' structures, farms, Redstone contraptions, maid robots, storage systems, etc., is forbidden; moving modded items placed by others (e.g., Maid Cores, Storage Disks, Magic Glyphs) without permission is not allowed.\n4. Prohibit building high-frequency Redstone circuits or lag-inducing machines (e.g., infinitely looping maid task machines, extremely large storage networks). If a contraption causes significant server TPS drop, admins have the right to demand its removal and restrict the use of related mod functions.\n\nII. Mod-Specific Gameplay Rules\n(A) Related to Touhou Little Maid Mod\n1. Set maid tasks reasonably. Exploiting the task mechanics of mods like maid_useful_task / maid_storage_manager to duplicate items or experience, or having maids perform infinitely repetitive, lag-causing tasks is prohibited.\n2. Maliciously attacking or killing other players' maid robots is forbidden. If you need to use another player's maid, you must obtain the owner's permission in advance; Stealing maid equipment or core components is prohibited.\n3. The spawning and management of maids must comply with server entity limits. No more than 10 maids are allowed per chunk to avoid server lag caused by excessive entities.\n\n(B) Related to Agriculture/Food Mods (Farmer's Delight, Aquaculture, etc.)\n1. Farmland cultivation and aquaculture should be reasonable. Prohibit building excessively large, uncontrolled farms/fisheries in public areas (e.g., spawn points, dimension entrances) that monopolize public resources.\n2. Ingredient and food trading must be conducted in good faith. Prohibit using mods like CraftTweaker to modify recipes for fraudulent transactions with other players, or maliciously interfering with others' gameplay using mechanics from mods like diet.\n3. Prohibit placing contaminating items from mods in water source areas, damaging the aquaculture and marine environment (e.g., OceansDelight).\n\n(C) Related to Magic Mods (Ars Nouveau)\n1. Magic glyphs and spellcasting must be used compliantly. Prohibit casting large-scale destructive spells (e.g., area instant-kill, terrain destruction) to attack other players or damage public terrain.\n2. Trading or gifting magic items (e.g., Spellbooks, Source Gems) must be voluntary. Prohibit seizing or scamming others' rare magic items; Exploiting magic bugs to infinitely generate Source or Glyphs is forbidden.\n\n(D) Related to Storage/Industrial Mods (Refined Storage, Industrial Upgrade, etc.)\n1. When using Refined Storage, building cross-dimensional item duplication devices or exploiting storage node bugs to duplicate disks or materials is prohibited; ExtraDisks expansion disks must be used appropriately, prohibiting the abuse of storage permissions.\n2. Generators and reactors from industrial mods must be placed with reasonable planning. Prohibit building unprotected high-risk installations (e.g., nuclear reactors) near Pioneer bases to avoid explosions damaging terrain and structures.\n\n(E) Related to Dimension Exploration Mods (Twilight Forest, The Undergarden, etc.)\n1. Boss fights in Twilight Forest or The Undergarden and collection of rare resources must be fair. Prohibit using mod items to maliciously block bosses, kill them instantly, or monopolize key resource points like diamond veins or Twilight Forest castles.\n2. Prohibit building structures that block passage at dimension entrances, or exploiting dimension teleportation mechanics to maliciously teleport other players to dangerous areas like The Undergarden abyss or Twilight Forest Lich towers.\n\nIII. Land and Interaction Rules\n1. The server has land protection mods enabled. Pioneers can use mod commands to claim exclusive land or place signs to mark ownership of structures and mod facilities; If someone maliciously occupies or destroys facilities like maids, storage, or farms within your land, you can submit a complaint to an admin. Penalties will be applied to violators after verification.\n2. When trading mod items or resources with other Pioneers, uphold principles of good faith. Prohibit fraud, price gouging of rare items like magic glyphs or maid cores, or trading with fake items; If trade disputes arise, you can request admin mediation. Admins will judge based on the actual situation.\n3. Entering others' non-public structures, bases, or lands, or inspecting their storage systems or maid task configurations without the owner's explicit permission is prohibited. If entry/inspection is needed, obtain permission in advance via in-game chat or the server community. Unauthorized entry is considered harassment.\n4. When teaming up for dimension exploration or boss fights, abide by team agreements on loot distribution. Prohibit privately taking rare mod items like Twilight Forest Knightly Swords or Ars Nouveau epic spellbooks for oneself.\n\nIV. Penalty Mechanism\n1. First Offense: Verbal warning from an admin, requiring rectification of the violation (e.g., dismantling lag machines, returning stolen mod items, restoring damaged structures).\n2. Second Offense: Temporary account ban for 1-7 days, clearing illegally obtained mod items/resources; If involving malicious destruction, compensation for the victim's loss is required.\n3. Severe Violation: Behaviors like repeated cheating, exploiting mod bugs to disrupt the server, or maliciously attacking other players will result in permanent account ban, clearance of related game data, and appeals are not accepted.\n4. Special Circumstances: Unintentional violations caused by mod bugs may lead to reduced or waived penalties if the player proactively explains the situation to an admin and cooperates with fixes.\n\nV. Other Notes\n1. Server admins hold the right to interpret these rules and determine violations. If you object to a penalty, you can submit a written appeal to an admin (with evidence like in-game screenshots or videos).\n2. The server performs regular data backups but is not responsible for losses caused by players' own operations (e.g., accidentally deleting a maid, formatting a storage disk). It is recommended to personally backup important mod items.\n3. Pioneers are welcome to provide reasonable suggestions to admins for optimizing mod gameplay and improving server functions, working together to enhance the server's gaming environment."
+},
+{
+"lang": "zh_CN",
+"text": "⚠️本服务器有[Minecraft 统一通行证]正版认证，你需要注册账号并且使用对应的登录方式才能进入服务服(否则验证用户名失败)\nMINECRAFT 统一通行证 登录注册\nhttps://login.mc-user.com:233/d20f1ab9de1a11f09215e04acd26563f/loginreg\n\n本服务器为1.20.1模组生存服，搭载女仆（Touhou Little Maid）、农业美食（FarmersDelight系列）、魔法（Ars Nouveau）、存储（Refined Storage）、暮色森林（Twilight Forest）等特色模组，为保障所有开拓者的游戏体验，特制定以下专属规则，违规将视情节给予警告、封禁、清除数据等处罚。\n\n一、基础行为规范\n1. 严禁使用作弊客户端、外挂、修改器，包括但不限于飞行、透视、物品刷取、秒杀等作弊行为；禁止利用模组漏洞（如女仆任务刷物、存储模组复制资源）获取不正当利益，发现漏洞需及时向管理员反馈。\n2. 禁止发布广告、涉政、色情、暴力等不良信息，不得进行人身攻击、辱骂、造谣等恶意言论；服务器内禁止刷屏、恶意@全体玩家，保持聊天频道整洁。\n3. 尊重其他开拓者的劳动成果，禁止恶意破坏他人建筑、农田、红石机器、女仆机器人、存储系统等设施；未经允许不得随意移动他人放置的模组道具（如女仆核心、存储磁盘、魔法符文）。\n4. 禁止搭建高频红石、卡顿机器（如无限循环的女仆任务机、超大规模存储集群），若装置导致服务器TPS大幅下降，管理员有权要求拆除并限制相关模组功能使用。\n\n二、模组专属玩法规则\n（一）女仆模组（Touhou Little Maid）相关\n1. 合理设置女仆任务，禁止利用 maid_useful_task / maid_storage_manager 模组的任务机制刷取物品、经验，或让女仆执行无限重复的卡顿任务。\n2. 禁止恶意攻击、杀死其他开拓者的女仆机器人，若需借用他人女仆，必须提前征得主人同意；女仆的装备、核心配件禁止盗取。\n3. 女仆的生成与管理需遵守服务器实体数量限制，单个区块内女仆数量不得超过10个，避免实体过多造成服务器卡顿。\n\n（二）农业/美食模组（FarmersDelight、Aquaculture等）相关\n1. 合理开垦农田、养殖水产，禁止在公共区域（如出生点、维度入口）无节制搭建超大规模农场/渔场，占用公共资源。\n2. 食材、料理交易需秉持诚信原则，禁止使用 CraftTweaker 模组修改配方后欺诈其他开拓者，或利用 diet 模组的饮食机制恶意干扰他人游戏体验。\n3. 禁止在水源区域投放模组内污染道具，破坏水产养殖与海洋生态（OceansDelight）环境。\n\n（三）魔法模组（Ars Nouveau）相关\n1. 魔法符文、法术构建需合规使用，禁止释放大规模破坏性魔法（如区域秒杀、地形摧毁）攻击其他开拓者或破坏公共地形。\n2. 魔法道具（如法术书、魔晶）的交易与赠予需自愿，禁止抢夺、骗取他人的稀有魔法物品；禁止利用魔法漏洞无限生成魔能、符文。\n\n（四）存储/工业模组（Refined Storage、IndustrialUpgrade）相关\n1. 使用精致存储模组时，禁止搭建跨维度的无限资源复制装置，或利用存储节点漏洞刷取磁盘、物资； ExtraDisks 扩展磁盘需合规使用，禁止滥用存储权限。\n2. 工业模组的发电机、反应堆需合理规划摆放位置，禁止在开拓者基地附近搭建未防护的核反应堆等高风险装置，避免爆炸破坏地形与建筑。\n\n（五）维度探索模组（Twilight Forest、The Undergarden）相关\n1. 暮色森林、地下花园的BOSS击杀、稀有资源采集需公平竞争，禁止使用模组道具恶意卡位、秒杀BOSS，或垄断钻石矿脉、暮色森林城堡等关键资源点。\n2. 禁止在维度入口处搭建阻碍通行的建筑，或利用维度传送机制恶意传送其他开拓者至地下花园深渊、暮色森林巫妖塔等危险区域。\n\n三、领地与交互规则\n1. 服务器已启用领地保护模组，开拓者可通过模组指令划定专属领地，也可放置告示牌标注建筑、模组设施所属权；若发现他人恶意侵占、破坏领地内的女仆、存储、农场等设施，可向管理员提交申诉，核实后将对违规者进行处罚。\n2. 与其他开拓者进行模组道具、资源交易时，需秉持诚信原则，禁止欺诈、哄抬稀有魔法符文、女仆核心等道具物价，或使用虚假物品交易；若产生交易纠纷，可请求管理员介入调解，管理员将根据实际情况判定。\n3. 禁止未经主人允许擅自进入他人未公开的建筑、基地、领地，或查看他人的存储系统、女仆任务配置；若需进入/查看，需提前通过游戏内聊天、服务器社群征得同意，违规闯入视为恶意骚扰行为。\n4. 组队探索维度、挑战BOSS时，需遵守团队约定分配战利品，禁止私吞暮色森林骑士剑、Ars Nouveau史诗法术书等稀有模组道具。\n\n四、处罚机制\n1. 首次违规：管理员口头警告，责令整改违规行为（如拆除卡顿机器、归还盗取的模组道具、恢复被破坏的建筑）。\n2. 二次违规：临时封禁账号1-7天，清除违规所得的模组物品、资源；若涉及恶意破坏，需赔偿受害者相应损失。\n3. 严重违规：多次作弊、利用模组漏洞破坏服务器、恶意攻击其他开拓者等行为，将被永久封禁账号、清除相关游戏数据，且不接受申诉。\n4. 特殊情形：若因模组BUG导致无心违规，主动向管理员说明情况并配合修复的，可减轻或免除处罚。\n\n五、其他说明\n1. 服务器管理员拥有规则解释权与违规判定权，若对处罚有异议，可向管理员提交书面申诉（附游戏内截图、视频等证据）。\n2. 服务器会定期备份数据，但不承担开拓者因自身操作（如误删女仆、格式化存储磁盘）造成的损失，建议自行备份重要模组道具。\n3. 欢迎开拓者向管理员提出模组玩法优化、服务器功能改进的合理建议，共同完善本服的游戏环境。"
+}
+]
 }
