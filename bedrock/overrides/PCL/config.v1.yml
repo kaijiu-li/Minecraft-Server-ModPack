@@ -19,3 +19,6 @@ VersionArgumentIndieV2: true
 IsStar: true
 LogoCustom: true
 VersionLaunchCount: 2
+VersionAdvanceJvm: ''
+VersionAdvanceGame: ''
+VersionModpackVersion: 1.3
